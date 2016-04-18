@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diestatutenbche00univgoog_0008.png"; bbox 0 0 3756 6158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 539 2384 1188 2523">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 539 2384 1188 2523">
+     <span class='ocr_line' id='line_1_1' title="bbox 539 2384 1188 2523; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 539 2384 636 2519; x_wconf 62' lang='lat' dir='ltr'>151ss</span> <span class='ocrx_word' id='word_1_2' title='bbox 666 2426 1188 2523; x_wconf 64' lang='lat' dir='ltr'>s&#39;rA&#39;ru&#39;rENBssfflER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 344 2929 1381 3091">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 344 2929 1381 3091">
+     <span class='ocr_line' id='line_1_2' title="bbox 344 2929 1381 3091; baseline -0.002 -2"><span class='ocrx_word' id='word_1_3' title='bbox 344 2929 963 3091; x_wconf 64' lang='lat' dir='ltr'><strong>UNIVERSITM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 998 2956 1381 3089; x_wconf 83' lang='lat' dir='ltr'><strong>LEIPZIG.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1882 6148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1882 6148">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1882 6148; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1882 6148; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
